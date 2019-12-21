@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /manager/
+Disallow: /assets/components/
+Disallow: /core/
+Disallow: /connectors/
+Disallow: /index.php
+Disallow: /searchresult/
+Disallow: /systempartition/
+Disallow: *?
+
+Host: https://site-a.ru
+Sitemap: https://site-a.ru/sitemap.xml

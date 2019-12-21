@@ -1,0 +1,32 @@
+html, body {
+  color: #000;
+  /*font-family: Arial, sans-serif;*/
+  /*font-family: 'Roboto', sans-serif;*/
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.site__header {
+}
+
+.site__center {
+}
+
+.site__footer {
+}
+
+.topLine__area {
+  width: 100%;
+  background: #009f5e;
+}
+
+.topLine {
+  width: 100%;
+  max-width: 1280px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 0;
+}
+
